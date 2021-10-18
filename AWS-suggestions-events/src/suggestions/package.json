@@ -1,0 +1,6 @@
+{
+	"name": "suggestify-suggestions",
+	"version": "1.0.0",
+	"description": "Suggestions engine with results baked-in",
+	"main": "index.js"
+}

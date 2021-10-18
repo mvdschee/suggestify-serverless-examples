@@ -1,0 +1,6 @@
+{
+	"name": "suggestify-events",
+	"version": "1.0.0",
+	"description": "Events callback to feed new suggestions",
+	"main": "index.js"
+}
